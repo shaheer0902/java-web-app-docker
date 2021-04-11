@@ -36,8 +36,9 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome Shaheer</h2>
+			<h2>Welcome Shaheer </h2>
 			<h3>This is sample Web App Application</h3>
+			<h3>Updated 2.0</h3>
 		</div>	
 	</div>
 
